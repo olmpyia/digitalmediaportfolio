@@ -7,7 +7,7 @@ body {
 	background: #EAF9FF;
 }
 .container {
-	width: 960px;
+	width: 960px; 
 	margin: 0 auto;
 }
 .header {
@@ -30,7 +30,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #FFFFFF;
+	background: #997C63;
 	margin: 0px;
 	float: left;
 	width: 100%;
