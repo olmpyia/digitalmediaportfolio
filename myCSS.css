@@ -43,6 +43,7 @@ a:hover, a:active, a:focus {
 	height: 60px;
 	text-align: center;
 	font:100%/1.4 Hoefller
+	font-color: #54345;
 }
 .content {
 	background: #FFF5EB;
