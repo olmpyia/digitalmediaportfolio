@@ -25,7 +25,7 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
-	background: #3D3B35;
+	background: #5C6299;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -54,7 +54,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: #57AD8E;
+	background: #5C6299;
 	margin: 0px;
 	float: left;
 	width: 100%;
